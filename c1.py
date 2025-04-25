@@ -3,6 +3,6 @@ def fact(n):
     return 1
   else:
     return (n)*fact(n-1)
-n=7
+n=5
 print(fact(n))
                 
